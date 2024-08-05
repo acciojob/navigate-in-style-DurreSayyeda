@@ -1,12 +1,12 @@
-/*  your css code here. If applicable */
-#nav-bar{
-	background:#D3D3D3;
-	padding: 10px;
-	
+/* Styling the nav-bar */
+.nav-bar {
+    background-color: #D3D3D3; /* Light gray background color */
+    padding: 10px; /* Padding around the nav-bar */
+    list-style: none; /* Remove bullet points */
 }
-li{
-	
-	display: inline;
-	list-style: none;
-	margin-right: 1rem;
+
+/* Styling each nav-item */
+.nav-item {
+    display: inline; /* Display items inline horizontally */
+    margin-right: 1rem; /* Right margin for spacing */
 }
